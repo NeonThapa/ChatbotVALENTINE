@@ -10,7 +10,7 @@ const apiKey = "sk-or-v1-05a300b8e001993ce84fac7c150262109f7866d75f4ca41cfc55a7e
 // Disclaimer: This chatbot is designed to be flirty and suggestive.
 // User discretion is advised.
 
-let flirtiness = 1; // State variable: 0 = neutral, 1 = flirty, 2 = very flirty
+let flirtiness = 2; // State variable: 0 = neutral, 1 = flirty, 2 = very flirty
 
 let responses = {
     neutral: [
